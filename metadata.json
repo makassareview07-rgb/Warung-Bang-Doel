@@ -1,0 +1,6 @@
+{
+  "name": "Warung Bang Doel - Pesan Antar Kuliner",
+  "description": "Aplikasi pesan-antar makanan resmi Warung Bang Doel. Nikmati Indomie Goreng khas Bang Doel, Nasi Goreng Spesial, dan hidangan lezat lainnya.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
